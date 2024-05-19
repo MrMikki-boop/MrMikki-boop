@@ -29,7 +29,7 @@ val MrMikki-boop = developer {
 <!-- ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=Flat&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=Flat&logo=openjdk&logoColor=white) -->
 <!--## 📚 Frameworks: -->
 
-### 💻 IDEs/Editors: ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-%233a50c9.svg?style=Flat&logo=intellij-idea&logoColor=white) ![Sublime Text](https://img.shields.io/badge/Sublime_Text-%23575757.svg?style=Flat&logo=sublime-text&logoColor=important) ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=Flat&logo=visual-studio&logoColor=white)
+## 💻 IDEs/Editors: ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-%233a50c9.svg?style=Flat&logo=intellij-idea&logoColor=white) ![Sublime Text](https://img.shields.io/badge/Sublime_Text-%23575757.svg?style=Flat&logo=sublime-text&logoColor=important) ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=Flat&logo=visual-studio&logoColor=white)
 
 <!-- ### 🥅 Other: ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=Flat&logo=Gradle&logoColor=white) -->
 
