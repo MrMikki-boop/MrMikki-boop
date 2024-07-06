@@ -19,7 +19,7 @@ val MrMikki-boop = developer {
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MrMikki-boop&theme=dracula&utcOffset=3)
 <!-- ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MrMikki-boop&theme=dracula) -->
 <!-- ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MrMikki-boop&theme=dracula) -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrMikki-boop=true&theme=dracula)
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrMikki-boop&theme=dracula) -->
 
 ## 📚 Technology Stack:
 
